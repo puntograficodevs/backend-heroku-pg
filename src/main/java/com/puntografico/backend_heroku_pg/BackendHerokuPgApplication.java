@@ -8,7 +8,7 @@ public class BackendHerokuPgApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(BackendHerokuPgApplication.class, args);
-		System.out.println("Hola!");
+		System.out.println("Hola! Esto se puede ir a Heroku");
 	}
 
 }
